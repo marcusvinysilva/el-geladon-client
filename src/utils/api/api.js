@@ -1,4 +1,4 @@
-const defaultUrl = "https://el-geladon-backend.herokuapp.com/paletas";
+const defaultUrl = "https://el-geladon-server.onrender.com/paletas";
 
 export const api = {
   createPaleta: async (paleta) => {
